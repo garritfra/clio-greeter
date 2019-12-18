@@ -6,9 +6,8 @@ main = "index.clio"
 keywords = ""
 
 [author]
-name = ""
-email = ""
-website = ""
+name = "Garrit Franke"
+website = "garrit.xyz"
 
 [scripts]
 test = "No tests specified"

@@ -1,1 +1,3 @@
-'Hello World' -> print
+@eager
+fn greet person:
+  "Hello " + person
