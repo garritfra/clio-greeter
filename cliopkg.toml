@@ -1,0 +1,17 @@
+title = "clio-greeter"
+description = ""
+version = "0.1.0"
+license = "ISC"
+main = "index.clio"
+keywords = ""
+
+[author]
+name = ""
+email = ""
+website = ""
+
+[scripts]
+test = "No tests specified"
+
+[dependencies]
+stdlib = "latest"
